@@ -78,8 +78,6 @@
       <element id="file-copy" path="$PROJECT_DIR$/../../../JavaLibraries/javafx-sdk-11.0.2/bin/vcruntime140.dll" />
       <element id="library" level="project" name="mysql-connector-java-8.0.19" />
       <element id="library" level="project" name="poi-4.1.2" />
-      <element id="library" level="project" name="lib" />
-      <element id="library" level="project" name="mysql-connector-java-8.0.191" />
     </root>
   </artifact>
 </component>

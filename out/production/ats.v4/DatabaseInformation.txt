@@ -1,0 +1,5 @@
+localhost
+3306
+root
+admin
+C:\Program Files\MySQL\MySQL Workbench 8.0 CE\mysql.exe

@@ -7,162 +7,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_191.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FakeMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/instructions.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/instructions.png.kra" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ats.v4/Backup/Backup -2020-03-20.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ats.v4/Backup/Backup -2020-03-22.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ats.v4/Backup/Backup -2020-03-25.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ats.v4/Backup/Backup -2020-03-26.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ats.v4/Backup/Backup -2020-04-10.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ats.v4/Backup/Backup -presentation.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ats.v4/Backup/BackupBasic.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ats.v4/Backup/BackupWithDataset.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ats.v4/DatabaseInformation.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ats.v4/Images/logo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ats.v4/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ats.v4/Styles/NavButtonStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ats.v4/Styles/SceneStyle.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/artifacts/ats_v4_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/ats_v4_jar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/commons_math3_3_6_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/poi_ooxml_schemas_4_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/xmlbeans_3_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_191.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dump20200316.sql" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ats.v4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ats.v4.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/null" beforeDir="false" afterPath="$PROJECT_DIR$/null" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ats_v4/ats_v4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ats_v4_jar/New Text Document.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ats_v4_jar/ats.v4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/12.xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/MaintenanceFunctions/Backup.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/MaintenanceFunctions/Commission/AddCommission.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/MaintenanceFunctions/Commission/AddCommission.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/MaintenanceFunctions/Commission/CommissionFunctions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/MaintenanceFunctions/Commission/CommissionFunctions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/MaintenanceFunctions/Commission/UpdateCommission.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/MaintenanceFunctions/Commission/UpdateCommission.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/MaintenanceFunctions/CustomerFunction/AddCustomer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/MaintenanceFunctions/CustomerFunction/AddCustomer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/MaintenanceFunctions/CustomerFunction/CustomerFunctions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/MaintenanceFunctions/CustomerFunction/CustomerFunctions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/MaintenanceFunctions/CustomerFunction/SelectPlan.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/MaintenanceFunctions/CustomerFunction/SelectPlan.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/MaintenanceFunctions/CustomerFunction/UpdateCustomer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/MaintenanceFunctions/CustomerFunction/UpdateCustomer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/MaintenanceFunctions/Discount/CreateFlexibleDiscount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/MaintenanceFunctions/Discount/CreateFlexibleDiscount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/MaintenanceFunctions/Discount/DiscountPlans.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/MaintenanceFunctions/Discount/DiscountPlans.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/MaintenanceFunctions/Discount/UpdateFixedDiscount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/MaintenanceFunctions/Discount/UpdateFixedDiscount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/MaintenanceFunctions/Employees/AddEmployee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/MaintenanceFunctions/Employees/AddEmployee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/MaintenanceFunctions/Employees/EmployeeFunctions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/MaintenanceFunctions/Employees/EmployeeFunctions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/MaintenanceFunctions/Employees/UpdateEmployee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/MaintenanceFunctions/Employees/UpdateEmployee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/MaintenanceFunctions/ExchangeRate/AddExchangeRates.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/MaintenanceFunctions/ExchangeRate/AddExchangeRates.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/MaintenanceFunctions/ExchangeRate/ExchangeRateFunctions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/MaintenanceFunctions/ExchangeRate/ExchangeRateFunctions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/MaintenanceFunctions/Restore.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/MaintenanceFunctions/TravelAgent/AddAgency.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/MaintenanceFunctions/TravelAgent/AddAgency.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/MaintenanceFunctions/TravelAgent/AgentFunctions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/MaintenanceFunctions/TravelAgent/AgentFunctions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/ReportFunctions/DomesticReportFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/ReportFunctions/DomesticReportFunction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/ReportFunctions/IndividualDomesticReportFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/ReportFunctions/IndividualDomesticReportFunction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/ReportFunctions/IndividualInterlineReportFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/ReportFunctions/IndividualInterlineReportFunction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/ReportFunctions/InterlineReportFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/ReportFunctions/InterlineReportFunction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/ReportFunctions/ReportGeneration.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/ReportFunctions/ReportGeneration.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/ReportFunctions/ReportWriter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/ReportFunctions/ReportWriter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/ReportFunctions/TicketReportFunctions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/ReportFunctions/TicketReportFunctions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/SalesFunctions/CardPayment.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/SalesFunctions/CardPayment.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/SalesFunctions/ExistingSale.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/SalesFunctions/ExistingSale.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/SalesFunctions/NewSale.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/SalesFunctions/NewSale.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/SearchFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/SearchFunction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/StockFunctions/AllocateFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/StockFunctions/AllocateFunction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/StockFunctions/BlanksFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/StockFunctions/BlanksFunction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/StockFunctions/OrderFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/StockFunctions/OrderFunction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/StockFunctions/ReAllocateFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/StockFunctions/ReAllocateFunction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/StockFunctions/ValidateFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/ButtonFunctions/StockFunctions/ValidateFunction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/Database/BlankDatabaseFunctions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/Database/BlankDatabaseFunctions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/Database/CommissionDatabaseFunctions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/Database/CommissionDatabaseFunctions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/Database/CustomerDatabaseFunctions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/Database/CustomerDatabaseFunctions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/Database/DatabaseConnection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/Database/DatabaseConnection.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/Database/DiscountDatabaseFunctions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/Database/DiscountDatabaseFunctions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/Database/DomesticDatabaseFunctions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/Database/DomesticDatabaseFunctions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/Database/EmployeeDatabaseFunctions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/Database/EmployeeDatabaseFunctions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/Database/ExchangeRateDatabaseFunctions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/Database/ExchangeRateDatabaseFunctions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/Database/FixedDiscountDatabaseFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/Database/FixedDiscountDatabaseFunction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/Database/FlexibleDiscountDatabaseFunctions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/Database/FlexibleDiscountDatabaseFunctions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/Database/FlexibleRangeDatabaseFunctions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/Database/FlexibleRangeDatabaseFunctions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/Database/IndividualDomesticDatabaseFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/Database/IndividualDomesticDatabaseFunction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/Database/IndividualInterlineReportDatabaseFunctions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/Database/IndividualInterlineReportDatabaseFunctions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/Database/InterlineDatabaseFunctions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/Database/InterlineDatabaseFunctions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/Database/LatePaymentDatabaseFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/Database/LatePaymentDatabaseFunction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/Database/LoginDatabaseFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/Database/LoginDatabaseFunction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/Database/SalesDatabaseFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/Database/SalesDatabaseFunction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/Database/TravelAgentDatabaseFunctions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/Database/TravelAgentDatabaseFunctions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/Database/TurnoverReportDatabaseFunctions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/Database/TurnoverReportDatabaseFunctions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/Entities/Agency.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/Entities/Agency.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/Entities/Blank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/Entities/Blank.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/Entities/Commission.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/Entities/Commission.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/Entities/CreditCard.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/Entities/CreditCard.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/Entities/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/Entities/Customer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/Entities/Discount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/Entities/Discount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/Entities/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/Entities/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/Entities/ExchangeRate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/Entities/ExchangeRate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/Entities/FixedDiscount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/Entities/FixedDiscount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/Entities/FlexibleDiscount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/Entities/FlexibleDiscount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/Entities/FlexibleRange.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/Entities/FlexibleRange.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/Entities/Price.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/Entities/Price.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/Entities/Sale.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/Entities/Sale.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/Entities/SaleReport.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/Entities/SaleReport.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/Entities/TicketReportBundle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/Entities/TicketReportBundle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/Global Domestic Report-2020-01-01.xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/Global DomesticReport-2020-01-01.xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/Global Individual Report-2020-01-01.xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/Individual Domestic Report-2020-01-01.xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/Individual Interline Report-2020-01-01.xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/META-INF/ats.v4.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/TicketReportTest.xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/UI/AlertWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/UI/AlertWindow.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/UI/CreateLayout.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/UI/CreateLayout.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/UI/Login$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/UI/Login$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/UI/Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/UI/Login.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ats.v4/UI/MainPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ats.v4/UI/MainPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/backup/backup.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/12.xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ButtonFunctions/MaintenanceFunctions/Backup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ButtonFunctions/MaintenanceFunctions/DatabaseMaintenance/Backup.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ButtonFunctions/MaintenanceFunctions/Commission/AddCommission.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ButtonFunctions/MaintenanceFunctions/Commission/AddCommission.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ButtonFunctions/MaintenanceFunctions/Commission/CommissionFunctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ButtonFunctions/MaintenanceFunctions/Commission/CommissionFunctions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ButtonFunctions/MaintenanceFunctions/Commission/UpdateCommission.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ButtonFunctions/MaintenanceFunctions/Commission/UpdateCommission.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ButtonFunctions/MaintenanceFunctions/CustomerFunction/AddCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ButtonFunctions/MaintenanceFunctions/CustomerFunction/AddCustomer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ButtonFunctions/MaintenanceFunctions/CustomerFunction/CustomerFunctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ButtonFunctions/MaintenanceFunctions/CustomerFunction/CustomerFunctions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ButtonFunctions/MaintenanceFunctions/Discount/CreateFlexibleDiscount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ButtonFunctions/MaintenanceFunctions/Discount/CreateFlexibleDiscount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ButtonFunctions/MaintenanceFunctions/Discount/DiscountPlans.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ButtonFunctions/MaintenanceFunctions/Discount/DiscountPlans.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ButtonFunctions/MaintenanceFunctions/Discount/UpdateFixedDiscount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ButtonFunctions/MaintenanceFunctions/Discount/UpdateFixedDiscount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ButtonFunctions/MaintenanceFunctions/Employees/AddEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ButtonFunctions/MaintenanceFunctions/Employees/AddEmployee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ButtonFunctions/MaintenanceFunctions/Employees/EmployeeFunctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ButtonFunctions/MaintenanceFunctions/Employees/EmployeeFunctions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ButtonFunctions/MaintenanceFunctions/ExchangeRate/AddExchangeRates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ButtonFunctions/MaintenanceFunctions/ExchangeRate/AddExchangeRates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ButtonFunctions/MaintenanceFunctions/Restore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ButtonFunctions/MaintenanceFunctions/DatabaseMaintenance/Restore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ButtonFunctions/MaintenanceFunctions/TravelAgent/AddAgency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ButtonFunctions/MaintenanceFunctions/TravelAgent/AddAgency.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ButtonFunctions/ReportFunctions/DomesticReportFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ButtonFunctions/ReportFunctions/DomesticReportFunction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ButtonFunctions/ReportFunctions/IndividualDomesticReportFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ButtonFunctions/ReportFunctions/IndividualDomesticReportFunction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ButtonFunctions/ReportFunctions/InterlineReportFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ButtonFunctions/ReportFunctions/InterlineReportFunction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ButtonFunctions/ReportFunctions/ReportGeneration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ButtonFunctions/ReportFunctions/ReportGeneration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ButtonFunctions/ReportFunctions/ReportWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ButtonFunctions/ReportFunctions/ReportWriter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ButtonFunctions/ReportFunctions/TicketReportFunctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ButtonFunctions/ReportFunctions/TicketReportFunctions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ButtonFunctions/SalesFunctions/CardPayment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ButtonFunctions/SalesFunctions/CardPayment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ButtonFunctions/SalesFunctions/ExistingSale.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ButtonFunctions/SalesFunctions/ExistingSale.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ButtonFunctions/SalesFunctions/NewSale.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ButtonFunctions/SalesFunctions/NewSale.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ButtonFunctions/SearchFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ButtonFunctions/SearchFunction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ButtonFunctions/StockFunctions/AllocateFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ButtonFunctions/StockFunctions/AllocateFunction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ButtonFunctions/StockFunctions/BlanksFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ButtonFunctions/StockFunctions/BlanksFunction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ButtonFunctions/StockFunctions/OrderFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ButtonFunctions/StockFunctions/OrderFunction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ButtonFunctions/StockFunctions/ReAllocateFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ButtonFunctions/StockFunctions/ReAllocateFunction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ButtonFunctions/StockFunctions/ValidateFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ButtonFunctions/StockFunctions/ValidateFunction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Database/BlankDatabaseFunctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Database/BlankDatabaseFunctions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Database/DatabaseConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Database/DatabaseConnection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Database/DomesticDatabaseFunctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Database/DomesticDatabaseFunctions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Database/EmployeeDatabaseFunctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Database/EmployeeDatabaseFunctions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Database/IndividualDomesticDatabaseFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Database/IndividualDomesticDatabaseFunction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Database/IndividualInterlineReportDatabaseFunctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Database/IndividualInterlineReportDatabaseFunctions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Database/InterlineDatabaseFunctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Database/InterlineDatabaseFunctions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Database/LoginDatabaseFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Database/LoginDatabaseFunction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Database/SalesDatabaseFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Database/SalesDatabaseFunction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Database/TravelAgentDatabaseFunctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Database/TravelAgentDatabaseFunctions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Entities/Price.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entities/Price.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Entities/Sale.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entities/Sale.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Entities/SaleReport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entities/SaleReport.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Entities/TicketReportBundle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entities/TicketReportBundle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Global Domestic Report-2020-01-01.xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Global DomesticReport-2020-01-01.xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Global Individual Report-2020-01-01.xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Individual Domestic Report-2020-01-01.xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Individual Interline Report-2020-01-01.xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TicketReportTest.xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UI/AlertWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UI/AlertWindow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UI/CreateLayout.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UI/CreateLayout.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UI/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UI/Login.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UI/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UI/MainPage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -284,11 +149,12 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="OverrideImplement.combined" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="dynamic.classpath" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../JavaLibraries/javafx-sdk-11.0.2/bin/vcruntime140.dll" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Till-system-master" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -296,7 +162,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="recentsLimit" value="5" />
@@ -325,6 +191,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -341,12 +220,6 @@
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="ats.v4" />
       <option name="VM_PARAMETERS" value="--module-path F:\programming\JavaLibraries\javafx-sdk-11.0.2\lib --add-modules javafx.controls,javafx.fxml" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value=".*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method v="2">
@@ -355,19 +228,6 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -496,43 +356,21 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598027444576">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1598027444576" />
-    <state x="711" y="380" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1598624065419">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="711" y="380" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1598624065419" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1598624075151">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1598624075151" />
-    <state width="1877" height="275" key="GridCell.Tab.0.bottom" timestamp="1598624528641">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1598624528641" />
-    <state width="1877" height="275" key="GridCell.Tab.0.center" timestamp="1598624528641">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="275" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1598624528641" />
-    <state width="1877" height="275" key="GridCell.Tab.0.left" timestamp="1598624528641">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="275" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1598624528641" />
-    <state width="1877" height="275" key="GridCell.Tab.0.right" timestamp="1598624528641">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="275" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1598624528641" />
-    <state x="461" y="165" key="SettingsEditor" timestamp="1598624238917">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1598624238917" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
