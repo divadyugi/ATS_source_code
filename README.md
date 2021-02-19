@@ -15,7 +15,7 @@ To run the application, make sure you add the correct path to these libraries, a
 # Database Setup
 Once the application is running<br/>
 
-![First page of the application with an arrow pointing at the setup database button](https://github.com/divadyugi/ATS_source_code/instruction.png)<br/>
+![First page of the application with an arrow pointing at the setup database button](https://github.com/divadyugi/ATS_source_code/blob/master/instructions.png)<br/>
 Click the "Setup Database" button, and provide the correct details for the connection you want to use with mySql.<br/>
 
 For the "MySql Dump location" select your mysql.exe file, default path: C:\Program Files\MySQL\MySQL Workbench 8.0 CE\mysql.exe<br/>
